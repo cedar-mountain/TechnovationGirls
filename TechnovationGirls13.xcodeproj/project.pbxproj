@@ -13,6 +13,7 @@
 		7310C60F2618BDAF00BB6A79 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7310C60D2618BDAF00BB6A79 /* Main.storyboard */; };
 		7310C6112618BDB300BB6A79 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7310C6102618BDB300BB6A79 /* Assets.xcassets */; };
 		7310C6142618BDB300BB6A79 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7310C6122618BDB300BB6A79 /* LaunchScreen.storyboard */; };
+		7310C61D2618CF2A00BB6A79 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7310C61C2618CF2A00BB6A79 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7310C6102618BDB300BB6A79 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7310C6132618BDB300BB6A79 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7310C6152618BDB300BB6A79 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7310C61C2618CF2A00BB6A79 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				7310C6102618BDB300BB6A79 /* Assets.xcassets */,
 				7310C6122618BDB300BB6A79 /* LaunchScreen.storyboard */,
 				7310C6152618BDB300BB6A79 /* Info.plist */,
+				7310C61C2618CF2A00BB6A79 /* GoogleService-Info.plist */,
 			);
 			path = TechnovationGirls13;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7310C6142618BDB300BB6A79 /* LaunchScreen.storyboard in Resources */,
+				7310C61D2618CF2A00BB6A79 /* GoogleService-Info.plist in Resources */,
 				7310C6112618BDB300BB6A79 /* Assets.xcassets in Resources */,
 				7310C60F2618BDAF00BB6A79 /* Main.storyboard in Resources */,
 			);
